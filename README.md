@@ -3,20 +3,28 @@
 <div>This is a console-application that allows the user to read and write: XML file, Json file and text file
 from the server.
 
-<h5>The reading version:</h5>
+<h4>The reading version:</h4>
 <p>The reading version consists from three files inside the server that we can access and read throw the console.</p>
-<h5>The writing version:</h5>
+<h4>The writing version:</h4>
 <p>The writing version consist of writing on the console and then saving the result with .txt, .json or .xml extension on the server</p>
 </div>
+<br>
 <h4>Read more</h4>
 <hr>
-<a href="https://www.w3schools.com/xml/">XML</a>
+<a href="https://www.w3schools.com/xml/">XML</a><br>
 <a href="https://www.w3schools.com/js/js_json_intro.asp">JSON</a>
-
+<div>
+<
+</div>
+  <h4>More Information:</h4>
+  <br><a href="https://github.com/Taleb01">Author: Taleb Mosyri</a>
+  <br><a href="mailto: taleb_n1@hotmail.com">e-mail</a>
+  <br><a href="https://www.linkedin.com/in/moustafa-taleb-1b3b15aa/">LinkedIn</a>
 
 <div>
-<h4>MIT License</h4>
+<h4>License</h4>
 <hr>
+<i>MIT License</i>
 <cite>Copyright (c) 2017 Taleb Mosyri</cite>
 <p>
 Permission is hereby granted, free of charge, to any person obtaining a copy
