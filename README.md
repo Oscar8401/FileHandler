@@ -8,22 +8,14 @@ from the server.
 <h4>The writing version:</h4>
 <p>The writing version consist of writing on the console and then saving the result with .txt, .json or .xml extension on the server</p>
 </div>
-<br>
-<h4>Read more</h4>
-<hr>
-<a href="https://www.w3schools.com/xml/">XML</a><br>
-<a href="https://www.w3schools.com/js/js_json_intro.asp">JSON</a>
-<div>
-<
-</div>
-  <h4>More Information:</h4>
-  <br><a href="https://github.com/Taleb01">Author: Taleb Mosyri</a>
-  <br><a href="mailto: taleb_n1@hotmail.com">e-mail</a>
+<h4>Read more</h4><hr>
+<a href="https://www.w3schools.com/xml/">XML</a>
+<br><a href="https://www.w3schools.com/js/js_json_intro.asp">JSON</a>
+ <h4>More Information:</h4><hr>
+  <a href="https://github.com/Taleb01">Author: Taleb Mosyri</a>
+  <a href="mailto: taleb_n1@hotmail.com">e-mail</a>
   <br><a href="https://www.linkedin.com/in/moustafa-taleb-1b3b15aa/">LinkedIn</a>
-
-<div>
-<h4>License</h4>
-<hr>
+<h4>License</h4><hr>
 <i>MIT License</i>
 <cite>Copyright (c) 2017 Taleb Mosyri</cite>
 <p>
@@ -45,4 +37,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 </p>
-</div>
