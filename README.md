@@ -9,8 +9,11 @@ from the server.
 <p>The writing version consist of writing on the console and then saving the result with .txt, .json or .xml extension on the server</p>
 </div>
 <h4>Read more</h4><hr>
-<a href="https://www.w3schools.com/xml/">XML</a>
-<br><a href="https://www.w3schools.com/js/js_json_intro.asp">JSON</a>
+<ul>
+ <li><a href="https://www.w3schools.com/xml/">XML</a></li>
+ <li><a href="https://www.w3schools.com/js/js_json_intro.asp">JSON</a></li>
+ <li>Txt</li>
+</ul>
  <h4>More Information:</h4><hr>
   <a href="https://github.com/Taleb01">Author: Taleb Mosyri</a>
   <br><a href="mailto: taleb_n1@hotmail.com">e-mail</a>
