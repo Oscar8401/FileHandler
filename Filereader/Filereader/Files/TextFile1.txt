@@ -1,1 +1,66 @@
-﻿This is an example qho we can read a text file from the server.
+﻿===============================================Lets's read a litle bit about Json. XML:===================================================
+
+JSON: JavaScript Object Notation.
+
+JSON is a syntax for storing and exchanging data.
+
+JSON is text, written with JavaScript object notation.
+*****************************************************************************************************
+Exchanging Data:
+
+When exchanging data between a browser and a server, the data can only be text.
+
+JSON is text, and we can convert any JavaScript object into JSON, and send JSON to the server.
+
+We can also convert any JSON received from the server into JavaScript objects.
+
+This way we can work with the data as JavaScript objects, with no complicated parsing and translations.
+==================================================================================================================================================
+
+XML is a software- and hardware-independent tool for storing and transporting data.
+
+What is XML?
+XML stands for eXtensible Markup Language
+XML is a markup language much like HTML
+XML was designed to store and transport data
+XML was designed to be self-descriptive
+XML is a W3C Recommendation
+==================================================================================================================================================
+JSON vs XML
+Both JSON and XML can be used to receive data from a web server.
+************************************************************************************************************************************************* 
+JSON is Like XML Because
+Both JSON and XML are "self describing" (human readable)
+Both JSON and XML are hierarchical (values within values)
+Both JSON and XML can be parsed and used by lots of programming languages
+Both JSON and XML can be fetched with an XMLHttpRequest
+**************************************************************************************************************************************************
+JSON is Unlike XML Because
+JSON doesn't use end tag
+JSON is shorter
+JSON is quicker to read and write
+JSON can use arrays
+The biggest difference is:
+**************************************************************************************************************************************************
+XML has to be parsed with an XML parser. JSON can be parsed by a standard JavaScript function.
+**************************************************************************************************************************************************
+Why JSON is Better Than XML
+XML is much more difficult to parse than JSON.
+JSON is parsed into a ready-to-use JavaScript object.
+For AJAX applications, JSON is faster and easier than XML:
+**************************************************************************************************************************************************
+Using XML
+Fetch an XML document
+Use the XML DOM to loop through the document
+Extract values and store in variables
+Using JSON
+Fetch a JSON string
+JSON.Parse the JSON string
+
+
+[Read more about Json and XML]
+1) https://www.w3schools.com/js/js_json_xml.asp
+
+2) https://www.w3schools.com/js/js_json_intro.asp
+
+3) https://www.w3schools.com/xml/
