@@ -13,8 +13,8 @@ from the server.
 <br><a href="https://www.w3schools.com/js/js_json_intro.asp">JSON</a>
  <h4>More Information:</h4><hr>
   <a href="https://github.com/Taleb01">Author: Taleb Mosyri</a>
-  <a href="mailto: taleb_n1@hotmail.com">e-mail</a>
-  <br><a href="https://www.linkedin.com/in/moustafa-taleb-1b3b15aa/">LinkedIn</a>
+  <br><a href="mailto: taleb_n1@hotmail.com">e-mail</a>
+ <a href="https://www.linkedin.com/in/moustafa-taleb-1b3b15aa/">LinkedIn</a>
 <h4>License</h4><hr>
 <i>MIT License</i>
 <cite>Copyright (c) 2017 Taleb Mosyri</cite>
